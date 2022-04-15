@@ -1,0 +1,11 @@
+.bgimg {
+  background-image: url('../components/Images/photo11.jpg');
+  background-repeat: repeat-y;
+  background-size: contain;
+}
+
+.bgreg {
+  background-image: url('../components/Images/Register.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
